@@ -1,0 +1,38 @@
+{
+  "encabezado": {
+    "Tipo Registro": "D",
+    "Código Empresa": "001",
+    "Nombre Empresa": "UNAPEC",
+    "Fecha de Pago": "2025-07-01"
+  },
+  "detalle": [
+    {
+      "Tipo Registro": "D",
+      "Cédula Empleado": "00112345678",
+      "Nombre Empleado": "Juan Pérez",
+      "Cuenta Bancaria": "1234567890",
+      "Monto a Pagar": "25000.00",
+      "Concepto Pago": "Salario Mensual"
+    },
+    {
+      "Tipo Registro": "D",
+      "Cédula Empleado": "00223456789",
+      "Nombre Empleado": "Ana Gómez",
+      "Cuenta Bancaria": "2345678901",
+      "Monto a Pagar": "27000.00",
+      "Concepto Pago": "Salario Mensual"
+    },
+    {
+      "Tipo Registro": "D",
+      "Cédula Empleado": "00334567890",
+      "Nombre Empleado": "Luis Rodríguez",
+      "Cuenta Bancaria": "3456789012",
+      "Monto a Pagar": "30000.00",
+      "Concepto Pago": "Salario Mensual"
+    }
+  ],
+  "sumario": {
+    "Tipo Registro": "S",
+    "Total Registros": 3
+  }
+}
